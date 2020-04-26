@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Project exclude paths
+/target/
+.idea/.gitignore
+.idea/LeetCode.iml
+.idea/compiler.xml
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+LeetCode.iml
