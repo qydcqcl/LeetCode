@@ -12,5 +12,7 @@
 .idea/misc.xml
 .idea/uiDesigner.xml
 .idea/vcs.xml
+.idea/modules.xml
+.idea/workspace.xml
 LeetCode.iml
 src/main/resources/
