@@ -2,6 +2,7 @@
 
 # Project exclude paths
 /target/
+.idea/
 .idea/.gitignore
 .idea/LeetCode.iml
 .idea/compiler.xml
