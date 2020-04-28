@@ -14,40 +14,7 @@ public class Example3 {
         String b = "1";
         String s = example3.addBinary(a, b);
         System.out.println(s);
-//        example3.test1();
-//        example3.test2();
-//        example3.test3();
     }
-
-//    public void test1(){
-//        String day = "1";
-//
-//        switch (day){
-//            case "1" -> System.out.println("as");
-//            case "2" -> System.out.println("df");
-//            default -> {
-//                System.out.println("sdf");
-//            }
-//        }
-//    }
-//
-//    public void test2(){
-//        Object obj = "hello world";
-//        if(obj instanceof String str){
-//            System.out.println(str);
-//        }
-//    }
-//
-//    public void test3(){
-//        String s = """
-//                <html>
-//                    <body>
-//                        <p>hello world</p>
-//                    </body>
-//                </html>
-//                """;
-//        System.out.println(s);
-//    }
 
     public String addBinary(String a, String b) {
         BigInteger x = new BigInteger(a, 2);
