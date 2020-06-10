@@ -1,10 +1,12 @@
+package org.example.test;
+
 import org.junit.Test;
 
 /**
  * @author hzq
  * @date 2020/4/8 18:21
  */
-public class StringTest {
+public class TestString {
 
     @Test
     public void test(){
@@ -12,6 +14,5 @@ public class StringTest {
         String s1 = "fl";
         int i = s.indexOf(s1);
         System.out.println(i);
-
     }
 }

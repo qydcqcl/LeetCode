@@ -1,10 +1,12 @@
+package org.example.test;
+
 import org.junit.Test;
 
 /**
  * @author hzq
  * @date 2020/4/27 11:05
  */
-public class Java14Test {
+public class TestJava14 {
 
 //    @Test
 //    public void test1(){
